@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite (Heroes APP)
 
 This is a project for know how to implement routes with the new version (6.40) of react-router-dom.
 
